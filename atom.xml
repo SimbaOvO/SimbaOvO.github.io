@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.idrlzt.cn/"/>
-  <updated>2019-03-02T11:26:56.932Z</updated>
+  <updated>2019-03-02T11:29:24.477Z</updated>
   <id>https://www.idrlzt.cn/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://www.idrlzt.cn/2019/03/02/LeanCloud%E8%B2%8C%E4%BC%BC%E6%9C%89%E4%B8%AA%E5%A5%87%E6%80%AA%E7%9A%84bug/"/>
     <id>https://www.idrlzt.cn/2019/03/02/LeanCloud貌似有个奇怪的bug/</id>
     <published>2019-03-02T09:42:27.000Z</published>
-    <updated>2019-03-02T11:26:56.932Z</updated>
+    <updated>2019-03-02T11:29:24.477Z</updated>
     
-    <content type="html"><![CDATA[<p>还没摸清如何能完美复现…</p><a id="more"></a><p>发现到的是访问量在点击进去和返回上一步切换的过程中会突然增加1-2次访问量？？？</p><p><img src="http://ww1.rs.fanjian.net/c/ab/c8/25/53abf0c06ec808c1fe250d3565ff0d32.jpg" alt></p><h4 id="复现的概率没摸清楚…有想过以下几点："><a href="#复现的概率没摸清楚…有想过以下几点：" class="headerlink" title="复现的概率没摸清楚…有想过以下几点："></a>复现的概率没摸清楚…有想过以下几点：</h4><blockquote><ol><li>或许和路由机制有关?</li><li>LeanCloud的某些机制被触发了？</li><li>首页的post模块与文章的post模块重叠/冲突了？</li></ol></blockquote><p>匪夷所思…而且也不防刷…免费的东西…</p><p>#真香啊!!!<br><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe5gWTdDPGLhJyqTJGNVTviBHLgIUwT7SYxujtiAzMrwYlmUT6yg" alt></p>]]></content>
+    <content type="html"><![CDATA[<p>还没摸清如何能完美复现…</p><a id="more"></a><p>发现到的是访问量在点击进去和返回上一步切换的过程中会突然增加1-2次访问量？？？</p><p><img src="http://ww1.rs.fanjian.net/c/ab/c8/25/53abf0c06ec808c1fe250d3565ff0d32.jpg" alt></p><h4 id="复现的概率没摸清楚…有想过以下几点："><a href="#复现的概率没摸清楚…有想过以下几点：" class="headerlink" title="复现的概率没摸清楚…有想过以下几点："></a>复现的概率没摸清楚…有想过以下几点：</h4><blockquote><ol><li>或许和路由机制有关?</li><li>LeanCloud的某些机制被触发了？</li><li>首页的post模块与文章的post模块重叠/冲突了？</li></ol></blockquote><p>匪夷所思…而且也不防刷…免费的东西…</p><h1 id="真香啊"><a href="#真香啊" class="headerlink" title="真香啊!!!"></a>真香啊!!!</h1><p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe5gWTdDPGLhJyqTJGNVTviBHLgIUwT7SYxujtiAzMrwYlmUT6yg" alt></p>]]></content>
     
     <summary type="html">
     
