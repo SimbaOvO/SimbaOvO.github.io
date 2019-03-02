@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Simba&#39;s Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.idrlzt.cn/"/>
+  <updated>2019-03-02T04:49:27.849Z</updated>
+  <id>https://www.idrlzt.cn/</id>
+  
+  <author>
+    <name>Simba</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://www.idrlzt.cn/2019/03/02/hello-world/"/>
+    <id>https://www.idrlzt.cn/2019/03/02/hello-world/</id>
+    <published>2019-03-02T01:52:20.128Z</published>
+    <updated>2019-03-02T04:49:27.849Z</updated>
+    
+    <content type="html"><![CDATA[<p>This is Simba’s Blog！<br>(hexo &amp; github page)</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;This is Simba’s Blog！&lt;br&gt;(hexo &amp;amp; github page)&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
