@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Simba&#39;s Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.idrlzt.cn/"/>
+  <updated>2019-03-02T04:49:27.849Z</updated>
+  <id>https://www.idrlzt.cn/</id>
+  
+  <author>
+    <name>Simba</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://www.idrlzt.cn/2019/03/04/hello-world/"/>
+    <id>https://www.idrlzt.cn/2019/03/04/hello-world/</id>
+    <published>2019-03-04T00:45:20.892Z</published>
+    <updated>2019-03-02T04:49:27.849Z</updated>
+    
+    <content type="html"><![CDATA[<p>This is Simba’s Blog！<br>(hexo &amp; github page)</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;This is Simba’s Blog！&lt;br&gt;(hexo &amp;amp; github page)&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>LeanCloud貌似有个奇怪的bug</title>
+    <link href="https://www.idrlzt.cn/2019/03/02/LeanCloud%E8%B2%8C%E4%BC%BC%E6%9C%89%E4%B8%AA%E5%A5%87%E6%80%AA%E7%9A%84bug/"/>
+    <id>https://www.idrlzt.cn/2019/03/02/LeanCloud貌似有个奇怪的bug/</id>
+    <published>2019-03-02T09:42:27.000Z</published>
+    <updated>2019-03-04T01:15:06.841Z</updated>
+    
+    <content type="html"><![CDATA[<p>还没摸清如何能完美复现…</p><a id="more"></a><p>发现到的是访问量在点击进去和返回上一步切换的过程中会突然增加1-2次访问量？？？</p><p><img src="http://ww1.rs.fanjian.net/c/ab/c8/25/53abf0c06ec808c1fe250d3565ff0d32.jpg" alt></p><p>复现的概率没摸清楚…有想过以下几点：</p><blockquote><ol><li>或许和路由机制有关?</li><li>LeanCloud的某些机制被触发了？</li><li>首页的post模块与文章的post模块重叠/冲突了？</li></ol></blockquote><p>匪夷所思…而且也不防刷…免费的东西…</p><center><br>    <h1>真香啊!!!</h1><br>    <img src="https://timgsa.baidu.com/timg?image&amp;quality=80&amp;size=b9999_10000&amp;sec=1551671258422&amp;di=b0446bda224f1c7c935de3e1151e5102&amp;imgtype=0&amp;src=http%3A%2F%2Fdingyue.nosdn.127.net%2FYREGRGiCAuAxC%3DUWyBDlWHbLa0TwnDUtSK77MpLC9U0Qw1538942194029.jpeg" alt><br></center>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;还没摸清如何能完美复现…&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
